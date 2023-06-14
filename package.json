@@ -1,7 +1,7 @@
 {
   "name": "@w72/cross-env",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "cross-env rewrite",
   "bin": {
     "cross-env": "bin.js"
   },
