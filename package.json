@@ -1,0 +1,30 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "cross-env": "bin.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "tsx bin.ts",
+    "build": "tsc"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "keywords": [
+    "cli",
+    "env"
+  ],
+  "author": "w72e@qq.com",
+  "license": "MIT",
+  "files": [
+    "bin.js"
+  ],
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "tsx": "^3.12.7",
+    "typescript": "^5.1.3"
+  }
+}
