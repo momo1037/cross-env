@@ -1,11 +1,12 @@
 {
   "name": "@w72/cross-env",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "cross-env rewrite",
   "bin": {
     "cross-env": "bin.js"
   },
   "type": "module",
+  "repository": "github:w72/cross-env",
   "scripts": {
     "start": "tsx bin.ts",
     "build": "tsc"
